@@ -29,7 +29,7 @@ const Hero = () => {
       Hi, I'm <span className='text-[#915EFF]'>Shreyas</span>
     </h1>
     <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-      I want to be <span className='text-[#915EFF] text'></span> {/* This will show the typed text */}
+      I want to be <span className='text-[#915EFF] text'>Fronted Developer</span> {/* This will show the typed text */}
     </p>
     <div className="btn-box">
       <a href="tel:+917507075722">Hire Me</a>
