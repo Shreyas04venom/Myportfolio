@@ -223,7 +223,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/Shreyas04venom/Weather-Tunes-App.git",
+    source_code_link: "https://github.com/Shreyas04venom/Weather-Tune.git",
   },
   {
     name: "CCP - Mini Project" ,
