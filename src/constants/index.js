@@ -179,26 +179,26 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Good website. pls contact me for such personalized website for me.",
+    name: "Dr. M VeerabhadraRao",
+    designation: "Head of Mechanics",
+    company: "FRCRCE",
+    image: "https://i.imghippo.com/files/nPdR9636liM.jpg",
   },
   {
     testimonial:
       "I've never met a student who truly cares about their carrier and future' success like Shreyas does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
+    name: "Sumit Ambre",
+    designation: "student",
+    company: "FRCRCE",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
       "As a 1st year engineeering student, this thing is very imapactful.",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
+    name: "Pari",
+    designation: "student",
+    company: "FRCRCE",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
